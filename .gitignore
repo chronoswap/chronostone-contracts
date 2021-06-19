@@ -1,0 +1,6 @@
+/information/
+/build/
+/node_modules/
+
+.DS_Store
+truffle-config.js
